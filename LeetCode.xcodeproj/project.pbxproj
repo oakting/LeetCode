@@ -14,6 +14,7 @@
 		26631C4B1BB0AAB800BA4BAF /* 004_medianOfTwoSortedArrays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C4A1BB0AAB700BA4BAF /* 004_medianOfTwoSortedArrays.cpp */; };
 		26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C4C1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp */; };
 		26631C4F1BB0C92300BA4BAF /* 006_zigZagConversion.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C4E1BB0C92300BA4BAF /* 006_zigZagConversion.cpp */; };
+		26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,7 @@
 		26631C4A1BB0AAB700BA4BAF /* 004_medianOfTwoSortedArrays.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 004_medianOfTwoSortedArrays.cpp; path = 004_medianOfTwoSortedArrays/004_medianOfTwoSortedArrays.cpp; sourceTree = SOURCE_ROOT; };
 		26631C4C1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 005_longestPalindromicSubstring.cpp; path = 005_longestPalindromicSubstring/005_longestPalindromicSubstring.cpp; sourceTree = SOURCE_ROOT; };
 		26631C4E1BB0C92300BA4BAF /* 006_zigZagConversion.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 006_zigZagConversion.cpp; path = 006_zigZagConversion/006_zigZagConversion.cpp; sourceTree = SOURCE_ROOT; };
+		26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 007_reverseInteger.cpp; path = 007_reverseInteger/007_reverseInteger.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 				26631C4A1BB0AAB700BA4BAF /* 004_medianOfTwoSortedArrays.cpp */,
 				26631C4C1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp */,
 				26631C4E1BB0C92300BA4BAF /* 006_zigZagConversion.cpp */,
+				26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -158,6 +161,7 @@
 				26631C491BAFD31700BA4BAF /* 003_longestSubstringWithoutRepeatedCharacters.cpp in Sources */,
 				26631C4F1BB0C92300BA4BAF /* 006_zigZagConversion.cpp in Sources */,
 				26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */,
+				26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
