@@ -26,7 +26,6 @@ public:
         return s.substr(left + 1, right - left - 1);
     }
     
-    
     string longestPalindrome(string s) {
         if (s.size() <= 1) return s;
         
