@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C2D1BAE7A8800BA4BAF /* main.cpp */; };
+		26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C421BAFC21000BA4BAF /* 002_addTwoNumbers.cpp */; };
+		26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */ = {isa = PBXBuildFile; fileRef = 26631C451BAFC54300BA4BAF /* 002_addTwoNumbers.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +27,11 @@
 /* Begin PBXFileReference section */
 		26631C2A1BAE7A8800BA4BAF /* LeetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LeetCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		26631C2D1BAE7A8800BA4BAF /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		26631C411BAE88B500BA4BAF /* 001_twoSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 001_twoSum.cpp; sourceTree = "<group>"; };
+		26631C421BAFC21000BA4BAF /* 002_addTwoNumbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 002_addTwoNumbers.cpp; path = 002_addTwoNumbers/002_addTwoNumbers.cpp; sourceTree = SOURCE_ROOT; };
+		26631C441BAFC29200BA4BAF /* Common.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Common.h; sourceTree = "<group>"; };
+		26631C451BAFC54300BA4BAF /* 002_addTwoNumbers.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = 002_addTwoNumbers.c; path = 002_addTwoNumbers/002_addTwoNumbers.c; sourceTree = SOURCE_ROOT; };
+		26631C471BAFC56B00BA4BAF /* Common_C.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Common_C.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +50,7 @@
 			children = (
 				26631C2C1BAE7A8800BA4BAF /* LeetCode */,
 				26631C2B1BAE7A8800BA4BAF /* Products */,
+				26631C401BAE88B500BA4BAF /* Solutions */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,8 +66,21 @@
 			isa = PBXGroup;
 			children = (
 				26631C2D1BAE7A8800BA4BAF /* main.cpp */,
+				26631C441BAFC29200BA4BAF /* Common.h */,
+				26631C471BAFC56B00BA4BAF /* Common_C.h */,
 			);
 			path = LeetCode;
+			sourceTree = "<group>";
+		};
+		26631C401BAE88B500BA4BAF /* Solutions */ = {
+			isa = PBXGroup;
+			children = (
+				26631C411BAE88B500BA4BAF /* 001_twoSum.cpp */,
+				26631C421BAFC21000BA4BAF /* 002_addTwoNumbers.cpp */,
+				26631C451BAFC54300BA4BAF /* 002_addTwoNumbers.c */,
+			);
+			name = Solutions;
+			path = 001_twoSum;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,6 +139,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
+				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

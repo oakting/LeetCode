@@ -3,7 +3,7 @@
 //  LeetCode
 //
 //  Created by Oak on 9/20/15.
-//  Copyright (c) 2015 Hans Ting. All rights reserved.
+//  Copyright (c) 2015 Oak. All rights reserved.
 //
 
 #ifndef LeetCode_Common_h

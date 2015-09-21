@@ -4,7 +4,7 @@
 //
 
 #include <stdio.h>
-#include "Common.h"
+#include "../LeetCode/Common.h"
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -51,3 +51,4 @@ private:
         return val;
     }
 };
+
