@@ -2,10 +2,6 @@
 //  001_TwoSum.cpp
 //  LeetCode
 //
-//  Created by Hans Ting on 9/19/15.
-//  Copyright (c) 2015 Hans Ting. All rights reserved.
-//
-
 
 /* 
  Given an array of integers, find two numbers such that they add up to a specific target number.
