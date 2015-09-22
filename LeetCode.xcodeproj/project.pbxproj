@@ -22,6 +22,8 @@
 		26631C5B1BB142CB00BA4BAF /* 012_integerToRoman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */; };
 		26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */; };
 		26631C5F1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */; };
+		26631C611BB1EE3900BA4BAF /* 015_3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */; };
+		26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C621BB1F34700BA4BAF /* 078_subsets.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -56,6 +58,8 @@
 		26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 012_integerToRoman.cpp; path = 012_integerToRoman/012_integerToRoman.cpp; sourceTree = SOURCE_ROOT; };
 		26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 013_romanToInteger.cpp; path = 013_romanToInteger/013_romanToInteger.cpp; sourceTree = SOURCE_ROOT; };
 		26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 014_longestCommonPrefix.cpp; path = 014_longestCommonPrefix/014_longestCommonPrefix.cpp; sourceTree = SOURCE_ROOT; };
+		26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 015_3Sum.cpp; path = 015_3Sum/015_3Sum.cpp; sourceTree = SOURCE_ROOT; };
+		26631C621BB1F34700BA4BAF /* 078_subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 078_subsets.cpp; path = 078_subsets/078_subsets.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +118,8 @@
 				26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */,
 				26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */,
 				26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */,
+				26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */,
+				26631C621BB1F34700BA4BAF /* 078_subsets.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -184,7 +190,9 @@
 				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
 				26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
+				26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */,
 				26631C491BAFD31700BA4BAF /* 003_longestSubstringWithoutRepeatedCharacters.cpp in Sources */,
+				26631C611BB1EE3900BA4BAF /* 015_3Sum.cpp in Sources */,
 				26631C531BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp in Sources */,
 				26631C4F1BB0C92300BA4BAF /* 006_zigZagConversion.cpp in Sources */,
 				26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */,
