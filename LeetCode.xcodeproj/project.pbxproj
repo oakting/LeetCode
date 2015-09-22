@@ -17,6 +17,7 @@
 		26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */; };
 		26631C531BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C521BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp */; };
 		26631C551BB0D7E700BA4BAF /* 009_palindromeNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C541BB0D7E700BA4BAF /* 009_palindromeNumber.cpp */; };
+		26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +47,7 @@
 		26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 007_reverseInteger.cpp; path = 007_reverseInteger/007_reverseInteger.cpp; sourceTree = SOURCE_ROOT; };
 		26631C521BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 008_stringToIntegerAtoi.cpp; path = 008_stringToIntegerAtoi/008_stringToIntegerAtoi.cpp; sourceTree = SOURCE_ROOT; };
 		26631C541BB0D7E700BA4BAF /* 009_palindromeNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 009_palindromeNumber.cpp; path = 009_palindromeNumber/009_palindromeNumber.cpp; sourceTree = SOURCE_ROOT; };
+		26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 010_regularExpressionMatching.cpp; path = 010_regularExpressionMatching/010_regularExpressionMatching.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				26631C501BB0CC2F00BA4BAF /* 007_reverseInteger.cpp */,
 				26631C521BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp */,
 				26631C541BB0D7E700BA4BAF /* 009_palindromeNumber.cpp */,
+				26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				26631C4B1BB0AAB800BA4BAF /* 004_medianOfTwoSortedArrays.cpp in Sources */,
+				26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */,
 				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
 				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
