@@ -39,4 +39,32 @@ public:
         return (x_rev == x_org);
         
     }
+    
+    
+    bool isPalindrome2(int x) {
+        if (x == 0) return true;
+        if (x < 0) return false;
+        
+        int len = 1;
+        int x_len = x;
+        while (x_len >= 10) {
+            len *= 10;
+            x_len /= 10;
+        }
+        
+        int l, r;
+        
+        while (x != 0) {
+            r = x % 10;
+            l = x / len;
+            
+            if (r != l) return false;
+            x = (x % len) / 10;
+            len /= 100;
+        }
+        
+        return true;
+        
+    }
+ 
 };
