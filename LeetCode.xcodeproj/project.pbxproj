@@ -25,6 +25,7 @@
 		26631C611BB1EE3900BA4BAF /* 015_3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */; };
 		26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C621BB1F34700BA4BAF /* 078_subsets.cpp */; };
 		26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */; };
+		26631C671BB1F94700BA4BAF /* 137_singleNumberII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -62,6 +63,7 @@
 		26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 015_3Sum.cpp; path = 015_3Sum/015_3Sum.cpp; sourceTree = SOURCE_ROOT; };
 		26631C621BB1F34700BA4BAF /* 078_subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 078_subsets.cpp; path = 078_subsets/078_subsets.cpp; sourceTree = SOURCE_ROOT; };
 		26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 136_singleNumber.cpp; path = 136_singleNumber/136_singleNumber.cpp; sourceTree = SOURCE_ROOT; };
+		26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 137_singleNumberII.cpp; path = 137_singleNumberII/137_singleNumberII.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -123,6 +125,7 @@
 				26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */,
 				26631C621BB1F34700BA4BAF /* 078_subsets.cpp */,
 				26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */,
+				26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -187,6 +190,7 @@
 				26631C4B1BB0AAB800BA4BAF /* 004_medianOfTwoSortedArrays.cpp in Sources */,
 				26631C5F1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp in Sources */,
 				26631C591BB1380F00BA4BAF /* 011_containerWithMostWater.cpp in Sources */,
+				26631C671BB1F94700BA4BAF /* 137_singleNumberII.cpp in Sources */,
 				26631C5B1BB142CB00BA4BAF /* 012_integerToRoman.cpp in Sources */,
 				26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */,
 				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
