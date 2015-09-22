@@ -24,6 +24,7 @@
 		26631C5F1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */; };
 		26631C611BB1EE3900BA4BAF /* 015_3Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */; };
 		26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C621BB1F34700BA4BAF /* 078_subsets.cpp */; };
+		26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -60,6 +61,7 @@
 		26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 014_longestCommonPrefix.cpp; path = 014_longestCommonPrefix/014_longestCommonPrefix.cpp; sourceTree = SOURCE_ROOT; };
 		26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 015_3Sum.cpp; path = 015_3Sum/015_3Sum.cpp; sourceTree = SOURCE_ROOT; };
 		26631C621BB1F34700BA4BAF /* 078_subsets.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 078_subsets.cpp; path = 078_subsets/078_subsets.cpp; sourceTree = SOURCE_ROOT; };
+		26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 136_singleNumber.cpp; path = 136_singleNumber/136_singleNumber.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */,
 				26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */,
 				26631C621BB1F34700BA4BAF /* 078_subsets.cpp */,
+				26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -198,6 +201,7 @@
 				26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */,
 				26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */,
 				26631C551BB0D7E700BA4BAF /* 009_palindromeNumber.cpp in Sources */,
+				26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
