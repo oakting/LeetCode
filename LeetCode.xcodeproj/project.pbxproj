@@ -20,6 +20,7 @@
 		26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */; };
 		26631C591BB1380F00BA4BAF /* 011_containerWithMostWater.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C581BB1380F00BA4BAF /* 011_containerWithMostWater.cpp */; };
 		26631C5B1BB142CB00BA4BAF /* 012_integerToRoman.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */; };
+		26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -52,6 +53,7 @@
 		26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 010_regularExpressionMatching.cpp; path = 010_regularExpressionMatching/010_regularExpressionMatching.cpp; sourceTree = SOURCE_ROOT; };
 		26631C581BB1380F00BA4BAF /* 011_containerWithMostWater.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 011_containerWithMostWater.cpp; path = 011_containerWithMostWater/011_containerWithMostWater.cpp; sourceTree = SOURCE_ROOT; };
 		26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 012_integerToRoman.cpp; path = 012_integerToRoman/012_integerToRoman.cpp; sourceTree = SOURCE_ROOT; };
+		26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 013_romanToInteger.cpp; path = 013_romanToInteger/013_romanToInteger.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				26631C561BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp */,
 				26631C581BB1380F00BA4BAF /* 011_containerWithMostWater.cpp */,
 				26631C5A1BB142CB00BA4BAF /* 012_integerToRoman.cpp */,
+				26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -175,6 +178,7 @@
 				26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */,
 				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
 				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
+				26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
 				26631C491BAFD31700BA4BAF /* 003_longestSubstringWithoutRepeatedCharacters.cpp in Sources */,
 				26631C531BB0D4B800BA4BAF /* 008_stringToIntegerAtoi.cpp in Sources */,
