@@ -34,6 +34,7 @@
 		26631C731BB265E800BA4BAF /* 231_powerOfTwo.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C721BB265E800BA4BAF /* 231_powerOfTwo.cpp */; };
 		26631C751BB26D1F00BA4BAF /* 260_singleNumberIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */; };
 		26631C771BB2711800BA4BAF /* 268_missingNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */; };
+		26631C791BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -80,6 +81,7 @@
 		26631C721BB265E800BA4BAF /* 231_powerOfTwo.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 231_powerOfTwo.cpp; path = 231_powerOfTwo/231_powerOfTwo.cpp; sourceTree = SOURCE_ROOT; };
 		26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 260_singleNumberIII.cpp; path = 260_singleNumberIII/260_singleNumberIII.cpp; sourceTree = SOURCE_ROOT; };
 		26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 268_missingNumber.cpp; path = 268_missingNumber/268_missingNumber.cpp; sourceTree = SOURCE_ROOT; };
+		26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 019_removeNthNodeFromEndOfList.cpp; path = 019_removeNthNodeFromEndOfList/019_removeNthNodeFromEndOfList.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -150,6 +152,7 @@
 				26631C721BB265E800BA4BAF /* 231_powerOfTwo.cpp */,
 				26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */,
 				26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */,
+				26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -221,6 +224,7 @@
 				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
 				26631C731BB265E800BA4BAF /* 231_powerOfTwo.cpp in Sources */,
 				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
+				26631C791BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp in Sources */,
 				26631C751BB26D1F00BA4BAF /* 260_singleNumberIII.cpp in Sources */,
 				26631C6B1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp in Sources */,
 				26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */,
