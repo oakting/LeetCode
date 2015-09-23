@@ -24,3 +24,4 @@ int hammingWeight(uint32_t n) {
     
     return num1s;
 }
+
