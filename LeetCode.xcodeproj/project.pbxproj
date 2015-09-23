@@ -27,6 +27,7 @@
 		26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */; };
 		26631C671BB1F94700BA4BAF /* 137_singleNumberII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */; };
 		26631C691BB2091100BA4BAF /* 169_majorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */; };
+		26631C6B1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -66,6 +67,7 @@
 		26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 136_singleNumber.cpp; path = 136_singleNumber/136_singleNumber.cpp; sourceTree = SOURCE_ROOT; };
 		26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 137_singleNumberII.cpp; path = 137_singleNumberII/137_singleNumberII.cpp; sourceTree = SOURCE_ROOT; };
 		26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 169_majorityElement.cpp; path = 169_majorityElement/169_majorityElement.cpp; sourceTree = SOURCE_ROOT; };
+		26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 187_repeatedDNASequences.cpp; path = 187_repeatedDNASequences/187_repeatedDNASequences.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */,
 				26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */,
 				26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */,
+				26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -198,6 +201,7 @@
 				26631C571BB115DE00BA4BAF /* 010_regularExpressionMatching.cpp in Sources */,
 				26631C431BAFC21000BA4BAF /* 002_addTwoNumbers.cpp in Sources */,
 				26631C461BAFC54300BA4BAF /* 002_addTwoNumbers.c in Sources */,
+				26631C6B1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp in Sources */,
 				26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
 				26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */,
