@@ -3,7 +3,6 @@
 //  LeetCode
 //
 //  Created by Oak on 9/22/15.
-//  Copyright (c) 2015 Hans Ting. All rights reserved.
 //
 
 /*
