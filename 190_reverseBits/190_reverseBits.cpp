@@ -17,8 +17,8 @@
  */
 
 #include <stdio.h>
+#include "../LeetCode/Common_C.h"
 
-typedef unsigned int uint32_t;
 
 // Compare bits from outer to inner
 uint32_t reverseBits_bitCmp(uint32_t n) {

@@ -29,6 +29,7 @@
 		26631C691BB2091100BA4BAF /* 169_majorityElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */; };
 		26631C6B1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */; };
 		26631C6D1BB22CC400BA4BAF /* 190_reverseBits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C6C1BB22CC400BA4BAF /* 190_reverseBits.cpp */; };
+		26631C6F1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C6E1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -70,6 +71,7 @@
 		26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 169_majorityElement.cpp; path = 169_majorityElement/169_majorityElement.cpp; sourceTree = SOURCE_ROOT; };
 		26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 187_repeatedDNASequences.cpp; path = 187_repeatedDNASequences/187_repeatedDNASequences.cpp; sourceTree = SOURCE_ROOT; };
 		26631C6C1BB22CC400BA4BAF /* 190_reverseBits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 190_reverseBits.cpp; path = 190_reverseBits/190_reverseBits.cpp; sourceTree = SOURCE_ROOT; };
+		26631C6E1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 191_numberOf1Bits.cpp; path = 191_numberOf1Bits/191_numberOf1Bits.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,8 +135,9 @@
 				26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */,
 				26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */,
 				26631C681BB2091100BA4BAF /* 169_majorityElement.cpp */,
-				26631C6C1BB22CC400BA4BAF /* 190_reverseBits.cpp */,
 				26631C6A1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp */,
+				26631C6C1BB22CC400BA4BAF /* 190_reverseBits.cpp */,
+				26631C6E1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -214,6 +217,7 @@
 				26631C4F1BB0C92300BA4BAF /* 006_zigZagConversion.cpp in Sources */,
 				26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */,
 				26631C691BB2091100BA4BAF /* 169_majorityElement.cpp in Sources */,
+				26631C6F1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp in Sources */,
 				26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */,
 				26631C6D1BB22CC400BA4BAF /* 190_reverseBits.cpp in Sources */,
 				26631C551BB0D7E700BA4BAF /* 009_palindromeNumber.cpp in Sources */,

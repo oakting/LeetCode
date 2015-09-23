@@ -11,6 +11,8 @@
 
 #include <stdlib.h>
 
+typedef unsigned int uint32_t;
+
 //Definition for singly-linked list.
 struct ListNode {
     int val;
