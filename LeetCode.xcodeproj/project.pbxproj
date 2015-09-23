@@ -35,6 +35,7 @@
 		26631C751BB26D1F00BA4BAF /* 260_singleNumberIII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */; };
 		26631C771BB2711800BA4BAF /* 268_missingNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */; };
 		26631C791BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */; };
+		26631C7B1BB342E900BA4BAF /* 020_validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -82,6 +83,7 @@
 		26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 260_singleNumberIII.cpp; path = 260_singleNumberIII/260_singleNumberIII.cpp; sourceTree = SOURCE_ROOT; };
 		26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 268_missingNumber.cpp; path = 268_missingNumber/268_missingNumber.cpp; sourceTree = SOURCE_ROOT; };
 		26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 019_removeNthNodeFromEndOfList.cpp; path = 019_removeNthNodeFromEndOfList/019_removeNthNodeFromEndOfList.cpp; sourceTree = SOURCE_ROOT; };
+		26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 020_validParentheses.cpp; path = 020_validParentheses/020_validParentheses.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				26631C741BB26D1F00BA4BAF /* 260_singleNumberIII.cpp */,
 				26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */,
 				26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */,
+				26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -242,6 +245,7 @@
 				26631C551BB0D7E700BA4BAF /* 009_palindromeNumber.cpp in Sources */,
 				26631C711BB2642600BA4BAF /* 201_bitwiseANDOfNumbersRange.cpp in Sources */,
 				26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */,
+				26631C7B1BB342E900BA4BAF /* 020_validParentheses.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
