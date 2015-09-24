@@ -36,6 +36,7 @@
 		26631C771BB2711800BA4BAF /* 268_missingNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */; };
 		26631C791BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */; };
 		26631C7B1BB342E900BA4BAF /* 020_validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */; };
+		26631C7D1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -84,6 +85,7 @@
 		26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 268_missingNumber.cpp; path = 268_missingNumber/268_missingNumber.cpp; sourceTree = SOURCE_ROOT; };
 		26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 019_removeNthNodeFromEndOfList.cpp; path = 019_removeNthNodeFromEndOfList/019_removeNthNodeFromEndOfList.cpp; sourceTree = SOURCE_ROOT; };
 		26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 020_validParentheses.cpp; path = 020_validParentheses/020_validParentheses.cpp; sourceTree = SOURCE_ROOT; };
+		26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 021_mergeTwoSortedLists.cpp; path = 021_mergeTwoSortedLists/021_mergeTwoSortedLists.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +158,7 @@
 				26631C761BB2711800BA4BAF /* 268_missingNumber.cpp */,
 				26631C781BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp */,
 				26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */,
+				26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -239,6 +242,7 @@
 				26631C4F1BB0C92300BA4BAF /* 006_zigZagConversion.cpp in Sources */,
 				26631C4D1BB0C0A900BA4BAF /* 005_longestPalindromicSubstring.cpp in Sources */,
 				26631C691BB2091100BA4BAF /* 169_majorityElement.cpp in Sources */,
+				26631C7D1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp in Sources */,
 				26631C6F1BB25F3700BA4BAF /* 191_numberOf1Bits.cpp in Sources */,
 				26631C511BB0CC2F00BA4BAF /* 007_reverseInteger.cpp in Sources */,
 				26631C6D1BB22CC400BA4BAF /* 190_reverseBits.cpp in Sources */,
