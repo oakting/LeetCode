@@ -38,6 +38,9 @@
 		26631C7B1BB342E900BA4BAF /* 020_validParentheses.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */; };
 		26631C7D1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */; };
 		26631C7F1BB3D1BE00BA4BAF /* 016_3SumClosest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26631C7E1BB3D1BE00BA4BAF /* 016_3SumClosest.cpp */; };
+		26ECC9301BB4D140000ECBD6 /* 018_4Sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26ECC92F1BB4D140000ECBD6 /* 018_4Sum.cpp */; };
+		26ECC9321BB4D167000ECBD6 /* 017_letterCombinationsOfaPhoneNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26ECC9311BB4D167000ECBD6 /* 017_letterCombinationsOfaPhoneNumber.cpp */; };
+		26ECC9341BB5FE84000ECBD6 /* 206_reverseLinkedList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 26ECC9331BB5FE84000ECBD6 /* 206_reverseLinkedList.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -88,6 +91,9 @@
 		26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 020_validParentheses.cpp; path = 020_validParentheses/020_validParentheses.cpp; sourceTree = SOURCE_ROOT; };
 		26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 021_mergeTwoSortedLists.cpp; path = 021_mergeTwoSortedLists/021_mergeTwoSortedLists.cpp; sourceTree = SOURCE_ROOT; };
 		26631C7E1BB3D1BE00BA4BAF /* 016_3SumClosest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 016_3SumClosest.cpp; path = 016_3SumClosest/016_3SumClosest.cpp; sourceTree = SOURCE_ROOT; };
+		26ECC92F1BB4D140000ECBD6 /* 018_4Sum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 018_4Sum.cpp; path = 018_4Sum/018_4Sum.cpp; sourceTree = SOURCE_ROOT; };
+		26ECC9311BB4D167000ECBD6 /* 017_letterCombinationsOfaPhoneNumber.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 017_letterCombinationsOfaPhoneNumber.cpp; path = ../017_letterCombinationsOfaPhoneNumber/017_letterCombinationsOfaPhoneNumber.cpp; sourceTree = "<group>"; };
+		26ECC9331BB5FE84000ECBD6 /* 206_reverseLinkedList.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = 206_reverseLinkedList.cpp; path = 206_reverseLinkedList/206_reverseLinkedList.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +153,7 @@
 				26631C5C1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp */,
 				26631C5E1BB1D93300BA4BAF /* 014_longestCommonPrefix.cpp */,
 				26631C601BB1EE3900BA4BAF /* 015_3Sum.cpp */,
+				26ECC9311BB4D167000ECBD6 /* 017_letterCombinationsOfaPhoneNumber.cpp */,
 				26631C621BB1F34700BA4BAF /* 078_subsets.cpp */,
 				26631C641BB1F51500BA4BAF /* 136_singleNumber.cpp */,
 				26631C661BB1F94700BA4BAF /* 137_singleNumberII.cpp */,
@@ -162,6 +169,8 @@
 				26631C7A1BB342E900BA4BAF /* 020_validParentheses.cpp */,
 				26631C7C1BB3C43800BA4BAF /* 021_mergeTwoSortedLists.cpp */,
 				26631C7E1BB3D1BE00BA4BAF /* 016_3SumClosest.cpp */,
+				26ECC92F1BB4D140000ECBD6 /* 018_4Sum.cpp */,
+				26ECC9331BB5FE84000ECBD6 /* 206_reverseLinkedList.cpp */,
 			);
 			name = Solutions;
 			path = 001_twoSum;
@@ -236,8 +245,10 @@
 				26631C791BB3381000BA4BAF /* 019_removeNthNodeFromEndOfList.cpp in Sources */,
 				26631C751BB26D1F00BA4BAF /* 260_singleNumberIII.cpp in Sources */,
 				26631C6B1BB2198A00BA4BAF /* 187_repeatedDNASequences.cpp in Sources */,
+				26ECC9321BB4D167000ECBD6 /* 017_letterCombinationsOfaPhoneNumber.cpp in Sources */,
 				26631C5D1BB1D1CD00BA4BAF /* 013_romanToInteger.cpp in Sources */,
 				26631C2E1BAE7A8800BA4BAF /* main.cpp in Sources */,
+				26ECC9301BB4D140000ECBD6 /* 018_4Sum.cpp in Sources */,
 				26631C631BB1F34700BA4BAF /* 078_subsets.cpp in Sources */,
 				26631C491BAFD31700BA4BAF /* 003_longestSubstringWithoutRepeatedCharacters.cpp in Sources */,
 				26631C611BB1EE3900BA4BAF /* 015_3Sum.cpp in Sources */,
@@ -253,6 +264,7 @@
 				26631C551BB0D7E700BA4BAF /* 009_palindromeNumber.cpp in Sources */,
 				26631C711BB2642600BA4BAF /* 201_bitwiseANDOfNumbersRange.cpp in Sources */,
 				26631C651BB1F51500BA4BAF /* 136_singleNumber.cpp in Sources */,
+				26ECC9341BB5FE84000ECBD6 /* 206_reverseLinkedList.cpp in Sources */,
 				26631C7B1BB342E900BA4BAF /* 020_validParentheses.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -370,6 +382,7 @@
 				26631C331BAE7A8800BA4BAF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
